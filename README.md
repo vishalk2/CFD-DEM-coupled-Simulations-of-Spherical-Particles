@@ -1,2 +1,3 @@
 # CFD-DEM-coupling-simulations-project
-Design Oriented Project on CFD-DEM coupling simulations using OpenFOAM &amp; LIGGGHTS
+
+CFD-DEM coupled simulations of Spouted bed dryer using CFD-DEM solvers like OpenFOAM-5.x & LIGGGHTS.

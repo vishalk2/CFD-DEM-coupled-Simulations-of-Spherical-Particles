@@ -1,9 +1,10 @@
 # CFD-DEM-coupling-simulations-project
 
-CFD-DEM coupled simulations of Spouted bed dryer using CFD-DEM solvers like OpenFOAM-5.x & LIGGGHTS.
+### CFD-DEM coupled simulations of Spouted bed dryer using CFD-DEM solvers like OpenFOAM-5.x & LIGGGHTS.
 
 ![Screenshot (1145)](https://user-images.githubusercontent.com/68963724/119816714-a8f2e180-bf0a-11eb-907a-a75634791b21.png)
 
+### Simulations
 
 1. Simulation of particles of a Spouted bed dryer based on their size:
 

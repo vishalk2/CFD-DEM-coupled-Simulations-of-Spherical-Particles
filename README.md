@@ -4,6 +4,8 @@
 
 ![Screenshot (1145)](https://user-images.githubusercontent.com/68963724/119816714-a8f2e180-bf0a-11eb-907a-a75634791b21.png)
 
+<hr>
+
 ### Simulations
 
 1. Simulation of particles of a Spouted bed dryer based on their size:

@@ -1,4 +1,4 @@
-# CFD-DEM-coupling-simulations-project
+## CFD-DEM coupled simulations of Spherical-shaped particles in a Spouted Bed Dryer
 
 ### CFD-DEM coupled simulations of spherical-shaped particles in a Spouted bed dryer
 

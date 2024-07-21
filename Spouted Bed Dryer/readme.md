@@ -1,1 +1,0 @@
-# Spouted Bed Dryer

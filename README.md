@@ -40,7 +40,7 @@ This Research Work constitutes:
    - Considered necessary node selection and implemented proper meshing across the Spouted Bed Druer model.
    - Conducted CFD-DEM coupled simulations of spherical-shaped granular particles in the Spouted Bed Dryer model using CFD-DEM solvers - OpenFOAM-5.x and LIGGGHTS.
    - Simulated the behaviour of the particles across the Spouted Bed Dryer using their Size (Radius) and Velocity as parameters.
-
+<br>
 2. Partially Averaged navier Stokes (PANS) vs Large Eddy Simulations (LES) for Turbulent Flows
    - Studied and implemented Partially Averaged Navier Stokes (PANS) model using OpenFOAM-5.x.
    - Implementation of PANS involved developing and validating numerical algorithms to simulate turbulent flows with improved accuracy and computational efficiency.

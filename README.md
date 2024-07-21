@@ -11,8 +11,8 @@
 <hr>
 
 ### ABOUT
-This Research Work involves:
-- Computational Fluid Dynamics – Discrete Element Method (CFD-DEM) Coupled Simulations of Granular Particles in a Spouted Bed Dryer.
+This Research Work constitutes:
+- Computational Fluid Dynamics – Discrete Element Method (CFD-DEM) Coupled Simulations of Spherical-shaped Granular Particles in a Spouted Bed Dryer.
 - Partially Averaged Navier Stokes (PANS) Model Simulations for turbulent flows and effective comparison against Large Eddy Simulations (LES).
 
 <br>
@@ -35,7 +35,8 @@ This Research Work involves:
 ### RESEARCH
 1. Spouted Bed Dryer
    - Researched the Computational Fluid Dynamics – Discrete Element Method (CFD-DEM) coupling methods for simulating granular particles.
-   - Conducted CFD-DEM coupled simulations of a Spouted Bed Dryer using CFD-DEM solvers, namely OpenFOAM-5.x and LIGGGHTS.
+   - Constructed the Spouted Bed Dryer Simulation Model using ANSYS and implemented necessary meshing across the model.
+   - Conducted CFD-DEM coupled simulations of spherical-shaped granular particles in a Spouted Bed Dryer using CFD-DEM solvers - OpenFOAM-5.x and LIGGGHTS.
 
 2. Partially Averaged navier Stokes (PANS) vs Large Eddy Simulations (LES) for Turbulent Flows
    - Studied and implemented Partially Averaged Navier Stokes (PANS) model using OpenFOAM-5.x.

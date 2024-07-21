@@ -4,7 +4,6 @@
 - [ABOUT](#about)
 - [KEYWORDS](#keywords)
 - [RESEARCH](#research)
-- [REPO FILES](#repo-files)
 - [SIMULATIONS](#simulations)
 
 <br>
@@ -47,12 +46,6 @@ This Research Work constitutes:
    - Applied numerical techniques to study and accurately capture the movements and interactions of the granular particles.
    - Effectively compared the results of PANS simulations against Large Eddy Simulation (LES) simulations based on the velocities of the flows.
    - This comparative analysis provided valuable insights into the capabilities and limitations of different turbulence modelling approaches in predicting flow behaviour.
-
-<br>
-<hr>
-
-### REPO FILES
-
 
 <br>
 <hr>

@@ -1,3 +1,3 @@
 ### How to use?
 
-- PANS.C and PANS.H
+1. The standard model to be used (before the implementation of PANS model) is

@@ -25,10 +25,8 @@ This Research Work constitutes:
 - Spouted Bed Dryer
 - Partially Averaged Navier Stokes (PANS)
 - PANS Modelling
-
 - PANS Turbulence Model
 - Large Eddy Simulations (LES)
-- Turbulent Flows
 - OpenFOAM-5.x
 - LIGGGHTS
 

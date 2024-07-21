@@ -1,6 +1,38 @@
-## CFD-DEM coupled simulations of Spherical-shaped particles in a Spouted Bed Dryer
+# CFD-DEM coupled simulations of Spherical-shaped particles in a Spouted Bed Dryer
 
-# Research
+### Contents
+- [ABOUT](#about)
+- [KEYWORDS](#keywords)
+- [RESEARCH](#research)
+- [REPO FILES](#repo-files)
+- [SIMULATIONS](#simulations)
+
+<br>
+<hr>
+
+### ABOUT
+This Research Work involves:
+- Computational Fluid Dynamics – Discrete Element Method (CFD-DEM) Coupled Simulations of Granular Particles in a Spouted Bed Dryer.
+- Partially Averaged Navier Stokes (PANS) Model Simulations for turbulent flows and effective comparison against Large Eddy Simulations (LES).
+
+<br>
+<hr>
+
+### KEYWORDS
+- Computational Fluid Dynamics (CFD)
+- Discrete Element Methods (DEM)
+- Partially Averaged Navier Stokes (PANS)
+- Large Eddy Simulations (LES)
+- Coupled Simulations
+- Turbulent Flows
+- Spouted Bed Dryer
+- OpenFOAM-5.x
+- LIGGGHTS
+
+<br>
+<hr>
+
+### RESEARCH
 1. Researched the Computational Fluid Dynamics – Discrete Element Method (CFD-DEM) coupling methods for simulating granular particles.
 2. Implemented Partially Averaged Navier Stokes (PANS) model using OpenFOAM-5.x.
 3. Implmentation of PANS involved developing and validating numerical algorithms to simulate turbulent flows with improved accuracy and computational efficiency.
@@ -9,13 +41,16 @@
 6. Effectively compared the results of PANS simulations against Large Eddy Simulation (LES) simulations, using Size & Velocity as parameters.
 7. This comparative analysis provided valuable insights into the capabilities and limitations of different turbulence modelling approaches in predicting flow behaviour.
 
+<br>
+<hr>
+
 ### Snaps at different time steps
 
 ![Screenshot (1145)](https://user-images.githubusercontent.com/68963724/119816714-a8f2e180-bf0a-11eb-907a-a75634791b21.png)
 
 <hr>
 
-### Simulations
+### SIMULATIONS
 
 1. Simulation of particles in a Spouted bed dryer based on their size:
 

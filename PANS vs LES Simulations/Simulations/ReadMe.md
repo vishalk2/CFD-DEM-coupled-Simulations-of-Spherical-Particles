@@ -1,5 +1,7 @@
 ### Simulations
 
+PANS simulations verified against LES solutions for the "PitzDaily" case in OpenFOAM-5.x (pimpleFoam).
+
 1. PANS Simulation
 
 ![PANS Simulation](https://github.com/user-attachments/assets/db007c72-1e07-45ed-afd2-94fa18162de6)

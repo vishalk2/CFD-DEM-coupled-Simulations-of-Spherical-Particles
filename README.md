@@ -21,11 +21,14 @@ This Research Work constitutes:
 ### KEYWORDS
 - Computational Fluid Dynamics (CFD)
 - Discrete Element Methods (DEM)
-- Partially Averaged Navier Stokes (PANS)
-- Large Eddy Simulations (LES)
-- Coupled Simulations
-- Turbulent Flows
+- CFD-DEM Coupling
 - Spouted Bed Dryer
+- Partially Averaged Navier Stokes (PANS)
+- PANS Modelling
+
+- PANS Turbulence Model
+- Large Eddy Simulations (LES)
+- Turbulent Flows
 - OpenFOAM-5.x
 - LIGGGHTS
 
@@ -35,14 +38,16 @@ This Research Work constitutes:
 ### RESEARCH
 1. Spouted Bed Dryer
    - Researched the Computational Fluid Dynamics – Discrete Element Method (CFD-DEM) coupling methods for simulating granular particles.
-   - Constructed the Spouted Bed Dryer Simulation Model using ANSYS and implemented necessary meshing across the model.
-   - Conducted CFD-DEM coupled simulations of spherical-shaped granular particles in a Spouted Bed Dryer using CFD-DEM solvers - OpenFOAM-5.x and LIGGGHTS.
+   - Constructed the Spouted Bed Dryer Simulation Model using ANSYS.
+   - Considered necessary node selection and implemented proper meshing across the Spouted Bed Druer model.
+   - Conducted CFD-DEM coupled simulations of spherical-shaped granular particles in the Spouted Bed Dryer model using CFD-DEM solvers - OpenFOAM-5.x and LIGGGHTS.
+   - Simulated the behaviour of the particles across the Spouted Bed Dryer using their Size (Radius) and Velocity as parameters.
 
 2. Partially Averaged navier Stokes (PANS) vs Large Eddy Simulations (LES) for Turbulent Flows
    - Studied and implemented Partially Averaged Navier Stokes (PANS) model using OpenFOAM-5.x.
    - Implementation of PANS involved developing and validating numerical algorithms to simulate turbulent flows with improved accuracy and computational efficiency.
    - Applied numerical techniques to study and accurately capture the movements and interactions of the granular particles.
-   - Effectively compared the results of PANS simulations against Large Eddy Simulation (LES) simulations, using Size & Velocity as parameters.
+   - Effectively compared the results of PANS simulations against Large Eddy Simulation (LES) simulations based on the velocities of the flows.
    - This comparative analysis provided valuable insights into the capabilities and limitations of different turbulence modelling approaches in predicting flow behaviour.
 
 <br>

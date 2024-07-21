@@ -33,13 +33,16 @@ This Research Work involves:
 <hr>
 
 ### RESEARCH
-1. Researched the Computational Fluid Dynamics – Discrete Element Method (CFD-DEM) coupling methods for simulating granular particles.
-2. Implemented Partially Averaged Navier Stokes (PANS) model using OpenFOAM-5.x.
-3. Implmentation of PANS involved developing and validating numerical algorithms to simulate turbulent flows with improved accuracy and computational efficiency.
-4. Conducted CFD-DEM coupled simulations of a Spouted Bed Dryer using CFD-DEM solvers, namely OpenFOAM-5.x and LIGGGHTS.
-5. Applied numerical techniques to study and accurately capture the movements and interactions of the granular particles.
-6. Effectively compared the results of PANS simulations against Large Eddy Simulation (LES) simulations, using Size & Velocity as parameters.
-7. This comparative analysis provided valuable insights into the capabilities and limitations of different turbulence modelling approaches in predicting flow behaviour.
+1. Spouted Bed Dryer
+   - Researched the Computational Fluid Dynamics – Discrete Element Method (CFD-DEM) coupling methods for simulating granular particles.
+   - Conducted CFD-DEM coupled simulations of a Spouted Bed Dryer using CFD-DEM solvers, namely OpenFOAM-5.x and LIGGGHTS.
+
+2. Partially Averaged navier Stokes (PANS) vs Large Eddy Simulations (LES) for Turbulent Flows
+   - Studied and implemented Partially Averaged Navier Stokes (PANS) model using OpenFOAM-5.x.
+   - Implementation of PANS involved developing and validating numerical algorithms to simulate turbulent flows with improved accuracy and computational efficiency.
+   - Applied numerical techniques to study and accurately capture the movements and interactions of the granular particles.
+   - Effectively compared the results of PANS simulations against Large Eddy Simulation (LES) simulations, using Size & Velocity as parameters.
+   - This comparative analysis provided valuable insights into the capabilities and limitations of different turbulence modelling approaches in predicting flow behaviour.
 
 <br>
 <hr>

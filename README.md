@@ -9,6 +9,7 @@
 
 <br>
 <hr>
+<br>
 
 ### ABOUT
 This Research Work constitutes:
@@ -17,6 +18,7 @@ This Research Work constitutes:
 
 <br>
 <hr>
+<br>
 
 ### KEYWORDS
 - Computational Fluid Dynamics (CFD)
@@ -32,6 +34,7 @@ This Research Work constitutes:
 
 <br>
 <hr>
+<br>
 
 ### RESEARCH
 1. Spouted Bed Dryer
@@ -40,6 +43,8 @@ This Research Work constitutes:
    - Considered necessary node selection and implemented proper meshing across the Spouted Bed Druer model.
    - Conducted CFD-DEM coupled simulations of spherical-shaped granular particles in the Spouted Bed Dryer model using CFD-DEM solvers - OpenFOAM-5.x and LIGGGHTS.
    - Simulated the behaviour of the particles across the Spouted Bed Dryer using their Size (Radius) and Velocity as parameters.
+
+<br>
 
 2. Partially Averaged navier Stokes (PANS) vs Large Eddy Simulations (LES) for Turbulent Flows
    - Studied and implemented Partially Averaged Navier Stokes (PANS) model using OpenFOAM-5.x.
@@ -50,12 +55,15 @@ This Research Work constitutes:
 
 <br>
 <hr>
+<br>
 
-### Snaps at different time steps
+### RESULTS
 
 ![Screenshot (1145)](https://user-images.githubusercontent.com/68963724/119816714-a8f2e180-bf0a-11eb-907a-a75634791b21.png)
 
+<br>
 <hr>
+<br>
 
 ### SIMULATIONS
 

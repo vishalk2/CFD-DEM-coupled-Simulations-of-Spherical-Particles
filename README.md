@@ -4,6 +4,7 @@
 - [ABOUT](#about)
 - [KEYWORDS](#keywords)
 - [RESEARCH](#research)
+- [RESULTS](#results)
 - [SIMULATIONS](#simulations)
 
 <br>

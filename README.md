@@ -57,10 +57,15 @@ This Research Work constitutes:
 
 #### 1. CFD-DEM Simulation of particles in a Spouted bed dryer based on their size (radius) on OpenFOAM-LIGGGHTS:
 
+<br>
+
 ![Radius - Simulation (online-video-cutter com)](https://user-images.githubusercontent.com/68963724/119815917-b5c30580-bf09-11eb-8212-fa6155eb0b21.gif)
 
 <br>
+<br>
 
 #### 2. CFD-DEM Simulation of particles in a Spouted bed dryer based on their velocities on OpenFOAM-LIGGGHTS:
+
+<br>
 
 ![Velocity - Simulation (online-video-cutter com)](https://user-images.githubusercontent.com/68963724/119816001-cf644d00-bf09-11eb-93df-448774994911.gif)

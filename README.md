@@ -47,7 +47,21 @@ This Research Work constitutes:
 
 ### RESULTS
 
+<br>
+
+#### 1. CFD-DEM Coupled Simulation of Spherical-shaped particles in a Spouted Bed Dryer: Simulation Progress
+
+<br>
+
 ![Screenshot (1145)](https://user-images.githubusercontent.com/68963724/119816714-a8f2e180-bf0a-11eb-907a-a75634791b21.png)
+
+<br>
+
+#### 2. CFD-DEM Coupled Simulation of Spherical-shaped particles in a Spouted Bed Dryer: Velocity (Magnitude)
+
+<br>
+
+![Velocity - Simulation Image](https://github.com/user-attachments/assets/04ef77a5-18f8-4cde-824d-7959f61035c7)
 
 <br>
 <hr>

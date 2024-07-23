@@ -22,7 +22,7 @@
 <hr>
 <br>
 
-#### 2. Meshing - Before Fluidized Air Entry Creation - Isometric View
+#### 2. Meshing - Inlet - Isometric View
 
 <br>
 
@@ -32,7 +32,7 @@
 <hr>
 <br>
 
-#### 3. Meshing - After Fluidized Air Entry Creation - Isometric View
+#### 3. Meshing - Spout Inlet & Inlet Background Fludization Air - Isometric View
 
 <br>
 

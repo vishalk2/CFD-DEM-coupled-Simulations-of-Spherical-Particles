@@ -21,7 +21,7 @@
 
 <br>
 
-
+![Spouted Bed Model](https://github.com/user-attachments/assets/f0300875-35f8-434d-9dd6-093793b10dc7)
 
 <br>
 <hr>

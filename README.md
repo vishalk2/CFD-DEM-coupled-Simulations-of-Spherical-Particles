@@ -37,7 +37,7 @@ This Research Work constitutes:
 ### RESEARCH
 - Researched the Computational Fluid Dynamics – Discrete Element Method (CFD-DEM) coupling methods for simulating granular particles.
 - Constructed the Spouted Bed Dryer Simulation Model using ANSYS.
-- Considered necessary node selection and implemented proper meshing across the Spouted Bed Dryer model.
+- Implemented necessary node selection and proper meshing across the Spouted Bed Dryer model.
 - Conducted CFD-DEM coupled simulations of spherical-shaped granular particles in the Spouted Bed Dryer model using CFD-DEM solvers - OpenFOAM-5.x and LIGGGHTS.
 - Simulated the behaviour of the particles across the Spouted Bed Dryer using their Size (Radius) and Velocity as parameters.
 
